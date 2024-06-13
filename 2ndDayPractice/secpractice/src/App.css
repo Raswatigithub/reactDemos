@@ -1,0 +1,23 @@
+.cont
+{
+
+  border:2px solid blue;
+  color: red;
+  background-color: pink;
+  width: 200px;;
+  margin: 4px;
+
+
+}
+
+.pic
+{
+  width:250px;
+  height: 250px;;
+}
+
+.main
+{
+  display: flex;
+  flex-wrap: wrap;
+}
